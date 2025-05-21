@@ -42,7 +42,7 @@ Example performance (may vary slightly based on run):
 * **Best-performing classes**: car, ship, truck
 * **Most confusion**: between cat, dog, and bird
 
-Detailed metrics and plots are saved to the `outputs/` directory.
+Detailed metrics and plots are saved to the output files.
 
 ---
 
